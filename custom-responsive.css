@@ -41,7 +41,7 @@
 
 @media(min-width:361px) and (max-width:375px){
     .container {
-        width: 68.5%;
+        width: 80%;
         margin: 0px auto;
     }
     .display{
@@ -91,5 +91,25 @@
     .row button {
         width: 46px;
         font-size: 12px;
+    }
+}
+@media(min-width:215px) and (max-width:300px){
+    .container {
+     
+        width: 100%;
+     
+        margin: 0px auto;
+    }
+    .display{
+        width: 100%;
+    }
+    .display #screen {
+        width: 237px;
+    }
+    .row button {
+        width: 29px;
+       
+        font-size: 12px;
+         
     }
 }
