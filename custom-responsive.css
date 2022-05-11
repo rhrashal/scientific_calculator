@@ -2,7 +2,7 @@
 
     .container {
      
-        width: 80%;
+        width: 85%;
      
         margin: 0px auto;
     }
@@ -22,7 +22,7 @@
 
 @media(min-width:321px) and (max-width:360px){
     .container {
-        width: 71.2%;
+        width: 80%;
         margin: 0px auto;
     }
     .display{
@@ -60,7 +60,7 @@
 
 @media(min-width:376px) and (max-width:414px){
     .container {
-        width: 62.5%;
+        width: 68.5%;
         margin: 0px auto;
     }
     .display{
@@ -79,7 +79,7 @@
 
 @media(min-width:415px) and (max-width:575px){
     .container {
-        width: 62.5%;
+        width: 67.5%;
         margin: 0px auto;
     }
     .display{
